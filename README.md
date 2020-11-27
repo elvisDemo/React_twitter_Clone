@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React Application
 
-This project was Created  with lots of ❤️️ . Live URL https://ambada-fb88b.web.app.
-
+This project was created with lots of ❤️️ . Live URL https://zingua-74f3d.web.app.
 ### `npm start`
 
 ###  `Components`
